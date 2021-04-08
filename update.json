@@ -1,7 +1,7 @@
 {
 "latest": 1.0,
-"updateurl": "https://github.com/KostyaVlasov/scripts/raw/master/fbitools.luac",
+"updateurl": "https://raw.githubusercontent.com/Decodir/auto-update/main/NewsHelper.lua",
 "updlist": "
-— Небольшой фикс
-— Убрал авто-бп в связи с проблемами в обновлении на сервере"
+— Фиксы не хуя не делали
+— Костя молодец все работает."
 }
